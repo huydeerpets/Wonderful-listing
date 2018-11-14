@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/yinminqian/Documents/code/todo2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/yinminqian/Documents/code/todo2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

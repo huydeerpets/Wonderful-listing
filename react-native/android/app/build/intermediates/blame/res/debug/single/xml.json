@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/yinminqian/.android/build-cache/715a0d3dd0a2620c4ad653665930b63b145416fd/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/yinminqian/Documents/code/todo2/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    }
+]

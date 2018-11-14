@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yinminqian/.android/build-cache/decc162eca70c0aea2a636fa88beb446d55937f6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yinminqian/.android/build-cache/e901878e0b0c55e214e795737ea4e454355b6b07/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yinminqian/.android/build-cache/decc162eca70c0aea2a636fa88beb446d55937f6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yinminqian/.android/build-cache/decc162eca70c0aea2a636fa88beb446d55937f6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

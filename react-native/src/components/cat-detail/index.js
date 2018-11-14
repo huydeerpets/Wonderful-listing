@@ -1,0 +1,1 @@
+export {default as ImgCatBgc} from "./image-bgc"

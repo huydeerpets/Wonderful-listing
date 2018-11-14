@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/8d25a32ece74b512b116082ab4806de306d79a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_b86017ac0e92d67e9f5ddabdd48238ffd85216c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/715a0d3dd0a2620c4ad653665930b63b145416fd/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_794b9324e69fa0a1d521c167f6cd6c67ae3a509e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/78884162c153f5cd12a7d06b5111ff29c562a574/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3bed41dc3164f618b7c22f37116f60b2017046e7">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_5d5d5232f1732770e549ff35a3a110c67731c91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/15c2fb5daf2c8d4875d53b811493943fb7e1bbfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_380c3264cbf6722ee75d785d2ef625c39b31fdaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/2cc9ac10a3b7941eebacdf4612b4d7214013e516/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_87e1c756b0f41bf2c9a02df4f38b7361fa8e8b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/abcd625d034497d349c69705d076f9736becd054/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_1e84bd8abcaa03e59c3e1a69db53f0a578217f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/7de13aaa7517f11795de4b9b12ce961177f3f8ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_0b6f6a7064b76060165f673902f9cc9ecfe18b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/389f21a1b11f8fe373db66cc1365662656f25f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_fb94267d84596885a4be81d71fca7821a5807b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_aae3d26dd700d2082d1efd46740d1ed0564ba4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_0eb1ac15cc1f9e495200131b03b881ff29ba1d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_7825898bd6fe528ff045718f7185e32cd816088b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.0_05fc6aaeeb738871845e9adec08ea6391a3d914f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/Documents/code/todo2/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="19bd9346b97ed28dc2bdb28a038c4a2a99e98a23">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_73755a88e0ec0ba9ae66eb59e2d7231bf212f872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/e901878e0b0c55e214e795737ea4e454355b6b07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_60ebc286ef81d7701a9e10b98d09ee8c5ea0eaf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/2bfa97e01e3c067d007e0d87abb259e2509462e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_f754b9dc1580e18ba20ef996b6fce069a076d23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/715a0d3dd0a2620c4ad653665930b63b145416fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_fbcf52b5efedf3bac961485f4cd15e0d7ec5137e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/decc162eca70c0aea2a636fa88beb446d55937f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_9067669fe3e589f3fb3b0bf777ba434f8bae0e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/ae9734dd7ed6aed1d3c3132e9b0d7b2851c9652e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_56f72db5d615561d4e4338cb14123e5c2ba5acaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/760756d47980ac39f806ff4974ec80674169819f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_c782361bf4c8ae9860eb17b044193ffd0c38039c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.android/build-cache/487a3a3fe4492c4ba97b7b46f6fd47a75401fe3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/classes_ad5c99c42f26712780d2872806cd8edf1939aa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yinminqian/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/yinminqian/Documents/code/todo2/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_fee092328cfc370a48f1a011c6ed17d647c2f5df.jar" />
+    </item>
+
+</items>
